@@ -1,0 +1,6 @@
+{
+  "name": "Horizon Orientation",
+  "description": "Accompagnement d'orientation d'excellence pour lycéens de la Seconde à la Terminale. Démarches d'inscription sélectives, bourses d'études et suivi interactif régulier.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
